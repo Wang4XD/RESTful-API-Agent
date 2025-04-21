@@ -112,7 +112,6 @@ async def verify_token(token: str = Depends(oauth2_scheme)):
 @app.post("/api/auth/token")
 async def login(auth_data: AuthRequest):
     """用户登录并获取令牌"""
-    # 此处应连接到你的认证系统，这里仅做示例
     # 在实际应用中，替换为真实的用户验证逻辑
 
     # 模拟用户验证
