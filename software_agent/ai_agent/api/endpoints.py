@@ -1,6 +1,6 @@
 from typing import Dict, Any, List, Optional
 
-# 这是示例API操作，实际部署时应替换为你公司软件的API
+# 示例API操作，实际部署时应替换
 API_ENDPOINTS = {
     # 用户管理
     "login": "/auth/login",
