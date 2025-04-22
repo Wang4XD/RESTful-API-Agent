@@ -1,7 +1,7 @@
 # Software-Agent
 A Demo Project: Manipulating Software APIs with Natural Language.
 
-该项目实现了一个AI代理系统，能够将用户的自然语言指令转换为软件API调用，Agent使用大型语言模型(OpenAI的GPT-4或Claude)来理解用户意图，并执行相应的软件RESTful API交互操作。
+该项目实现了一个AI代理系统(适用于Web应用)，能够将用户的自然语言指令转换为软件RESTful API调用，Agent使用大型语言模型(OpenAI的GPT-4或Claude)来理解用户意图，并执行相应的软件RESTful API交互操作。
 
 ## Project Structure
 ```
